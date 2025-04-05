@@ -1,0 +1,8 @@
+Error: Qualquer coisa (LogFileMixin)
+Success: Outra coisa (LogFileMixin)
+Error: Qualquer coisa (LogFileMixin)
+Success: Outra coisa (LogFileMixin)
+Success: Galaxy S est� ligado (Smartphone)
+Error: iPhone est� Desligado (Smartphone)
+Success: Galaxy S est� ligado (Smartphone)
+Error: iPhone est� Desligado (Smartphone)
