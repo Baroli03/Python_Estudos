@@ -1,7 +1,7 @@
 # 📌 Python_Estudos
 
     Repositório destinado a mostrar a evolução nos estudos de Python do professor Luiz Otávio Miranda, no curso Python 3+ completo:  
-    PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.
+    Testes, TDD, POO, Design Patterns GoF, algoritmos e programação.
 
 ---
 
